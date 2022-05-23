@@ -1,8 +1,12 @@
 <h1 align='center'><strong>Covid Tracker ⚡</strong></h1>
 ## **Main technologies 📝**
+
+
 - Tailwind CSS
 - HighCharts
 - Axios
+
+
 ## **Install 🔨**
 
 1. Clone Project
