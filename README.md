@@ -6,6 +6,9 @@
 - HighCharts
 - Axios
 
+## **Live Demo 📝**
+
+https://ncovtracker.surge.sh/
 
 ## **Install 🔨**
 
